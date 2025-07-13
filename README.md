@@ -45,8 +45,9 @@ This Excel project showcases a **professional-grade dashboard** built from 100K+
 ---
 
 ## 📸 Screenshots
+>![Dashboard Screenshot](Dashboard1.png)
+>![Dashboard Screenshot](Dashboard2.png)
 
-> *(Add screenshots of your dashboard here once uploaded to GitHub)*
 
 ---
 
